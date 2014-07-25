@@ -1,0 +1,31 @@
+{
+  "name": "wakandatk",
+  "version": "0.0.0",
+  "description": "Wakanda NoSQL Object Database Server ",
+  "author": "Alexandre Morgaut (https://github.com/AMorgaut)",
+  "license": "MIT",
+  "keywords": [
+    "wakanda",
+    "wakandadb",
+    "nosql",
+    "commonjs",
+    "web application",
+    "framework",
+    "ssjs",
+    "html5"
+  ],
+  "main": "lib/index.js",
+  "bin": {
+    "wakandatk": "./bin/wakandatk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AMorgaut/wakandatk"
+  },
+  "bugs": {
+    "url": "https://github.com/AMorgaut/wakandatk/issues"
+  },
+  "dependencies": {
+      "jsftp": "~1.2.1"
+  }
+}
